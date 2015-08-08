@@ -1,0 +1,15 @@
+    1  cd ..
+    2  ls
+    3  cd KampSpring/
+    4  .gitignore
+    5  cat .gitignore
+    6  tile .gitignore
+    7  mv a.txt .gitignore
+    8  git init
+    9  git init
+   10  git status
+   11  git add .
+   12  git status
+   13  git commit -m 'initial commit'
+   14  git status
+   15  history > komutlar.txt
