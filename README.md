@@ -1,2 +1,2 @@
 # KampSpringAssessment
-Linux Yaz Kampı - Spring - Notları - Assessment
+Linux Yaz Kampı - Spring Notları - Assessment
